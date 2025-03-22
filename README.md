@@ -18,3 +18,5 @@ This is a Python-based multi-calculator project with a graphical user interface 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/multi-calculator-gui.git
+2. ```
+   https://github.com/LorensMishra/new-calculator
